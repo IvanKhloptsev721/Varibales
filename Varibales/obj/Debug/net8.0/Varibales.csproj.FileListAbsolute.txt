@@ -1,0 +1,14 @@
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\bin\Debug\net8.0\Varibales.exe
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\bin\Debug\net8.0\Varibales.deps.json
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\bin\Debug\net8.0\Varibales.runtimeconfig.json
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\bin\Debug\net8.0\Varibales.dll
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\bin\Debug\net8.0\Varibales.pdb
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\Varibales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\Varibales.AssemblyInfoInputs.cache
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\Varibales.AssemblyInfo.cs
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\Varibales.csproj.CoreCompileInputs.cache
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\Varibales.dll
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\refint\Varibales.dll
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\Varibales.pdb
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\Varibales.genruntimeconfig.cache
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\ref\Varibales.dll
