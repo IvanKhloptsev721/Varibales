@@ -32,7 +32,7 @@
                 string yesOrNo2 = Console.ReadLine();
                 if (yesOrNo2.Equals("да", StringComparison.OrdinalIgnoreCase))
                 {
-                    Console.WriteLine($"О ладно {name} смотри в языке програмирования есть такие классы как int string ");
+                    Console.WriteLine($"О ладно {name} смотри в языке програмирования есть такие классы как int string ты будешь пользоватся этими классами в течение долгово времени ");
                 }
             }
 

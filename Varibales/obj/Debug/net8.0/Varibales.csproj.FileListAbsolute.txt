@@ -12,3 +12,4 @@ C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\refint\Vari
 C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\Varibales.pdb
 C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\Varibales.genruntimeconfig.cache
 C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\ref\Varibales.dll
+C:\Users\Ivan_comp\Documents\C#\Varibales\Varibales\obj\Debug\net8.0\Varibales.sourcelink.json
